@@ -2,6 +2,7 @@
 
 int main() {
     printf("Desafio Xadrez\n");
+    printf("Novo comit\n");
 
     int i = 1;
     int i_ = 1;
