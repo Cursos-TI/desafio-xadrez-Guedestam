@@ -1,5 +1,6 @@
 #include <stdio.h> 
 
+
     // Rainha - 8 casas para esquerda.// 
 void movimentorainha(int rainha) {
     if (rainha > 0) {
@@ -57,6 +58,7 @@ void movimentotorre(int torre){
 
 
 int main() {
+   printf("novo commit\n");
     printf("--------Rainha-------\n"); 
     int rainha = 8; // numeros de movimentos: 8 casas para a esquerda.//
     movimentorainha(rainha);
